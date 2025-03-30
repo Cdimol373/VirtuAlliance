@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 75b2fd9cd04c94e7693616260cd451f2
+=======
+guid: 0220aab0833d04faeb927d84ca6cc40c
+>>>>>>> 3bc8f78 (Proyecto Unity limpio con .gitignore funcionando)
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

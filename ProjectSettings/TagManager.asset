@@ -2,8 +2,15 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
+<<<<<<< HEAD
   serializedVersion: 2
   tags: []
+=======
+  serializedVersion: 3
+  tags:
+  - Suelo
+  - Bala
+>>>>>>> 3bc8f78 (Proyecto Unity limpio con .gitignore funcionando)
   layers:
   - Default
   - TransparentFX
@@ -43,6 +50,7 @@ TagManager:
     locked: 0
   m_RenderingLayers:
   - Default
+<<<<<<< HEAD
   - Light Layer 1
   - Light Layer 2
   - Light Layer 3
@@ -74,3 +82,5 @@ TagManager:
   - 
   - 
   - 
+=======
+>>>>>>> 3bc8f78 (Proyecto Unity limpio con .gitignore funcionando)

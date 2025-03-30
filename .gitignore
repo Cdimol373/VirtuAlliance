@@ -6,11 +6,20 @@ UserSettings/
 *.unityproj
 *.sln
 *.user
+<<<<<<< HEAD
 *.suo
+=======
+>>>>>>> 3bc8f78 (Proyecto Unity limpio con .gitignore funcionando)
 *.pidb
 *.booproj
 *.svd
 *.pdb
+<<<<<<< HEAD
 *.opendb
 *.VC.db
 
+=======
+.DS_Store
+*.apk
+*.unitypackage
+>>>>>>> 3bc8f78 (Proyecto Unity limpio con .gitignore funcionando)
