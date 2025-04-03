@@ -1,5 +1,4 @@
 using UnityEngine;
-<<<<<<< HEAD
 using UnityEngine.SceneManagement;
 
 public class Transiciones : MonoBehaviour
@@ -7,20 +6,15 @@ public class Transiciones : MonoBehaviour
     public void CambiarEscena(string nombreEscena)
     {
         SceneManager.LoadScene(nombreEscena);
-=======
-
-public class Transiciones : MonoBehaviour
-{
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
     }
 
-    // Update is called once per frame
+    void Start()
+    {
+        // Puedes inicializar variables aquí si es necesario
+    }
+
     void Update()
     {
-        
->>>>>>> origin/Marcos-Llimera
+        // Si más adelante necesitas animaciones o controles, puedes agregarlas aquí
     }
 }

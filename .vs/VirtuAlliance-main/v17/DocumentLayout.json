@@ -1,34 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\assets\\common\\scripts\\puntuaciontotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|solutionrelative:assets\\common\\scripts\\puntuaciontotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|c:\\users\\administrator\\onedrive\\escritorio\\juegovitrual\\virtualliance-main\\assets\\minijuegos\\catastrofe\\scripts\\ajustarlimites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\catastrofe\\scripts\\ajustarlimites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|c:\\users\\administrator\\onedrive\\escritorio\\juegovitrual\\virtualliance-main\\assets\\minijuegos\\catastrofe\\scripts\\ajustarpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\catastrofe\\scripts\\ajustarpersonaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\assets\\common\\scripts\\mostrarpuntuacionfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|solutionrelative:assets\\common\\scripts\\mostrarpuntuacionfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\assets\\minijuegos\\catastrofe\\scripts\\adjustcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\catastrofe\\scripts\\adjustcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\assets\\common\\scripts\\transiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\assets\\minijuegos\\catastrofe\\scripts\\ajustarcamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\catastrofe\\scripts\\ajustarcamara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\assets\\common\\scripts\\transiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|solutionrelative:assets\\common\\scripts\\transiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\Puntuacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Common\\Scripts\\Puntuacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\assets\\common\\scripts\\puntuaciontotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|solutionrelative:assets\\common\\scripts\\puntuaciontotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\TMP\\TMP_SubMesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\assets\\common\\scripts\\mostrarpuntuacionfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|solutionrelative:assets\\common\\scripts\\mostrarpuntuacionfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\TMP\\TMP_SubMesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\TMP\\TMP_SubMesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\Puntuacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205A0F79-4580-F964-8AA8-1960641B239A}|Assembly-CSharp.csproj|solutionrelative:Assets\\Common\\Scripts\\Puntuacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,28 +54,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Lit.shader",
-              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
-              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-03-30T17:38:31.689Z",
+              "DocumentIndex": 0,
+              "Title": "AjustarLimites.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Minijuegos\\Catastrofe\\Scripts\\AjustarLimites.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Catastrofe\\Scripts\\AjustarLimites.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Minijuegos\\Catastrofe\\Scripts\\AjustarLimites.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Catastrofe\\Scripts\\AjustarLimites.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:36:46.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AjustarPersonaje.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Minijuegos\\Catastrofe\\Scripts\\AjustarPersonaje.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Catastrofe\\Scripts\\AjustarPersonaje.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Minijuegos\\Catastrofe\\Scripts\\AjustarPersonaje.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Catastrofe\\Scripts\\AjustarPersonaje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:30:52.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AjustarCamara.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Minijuegos\\Catastrofe\\Scripts\\AjustarCamara.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Catastrofe\\Scripts\\AjustarCamara.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Minijuegos\\Catastrofe\\Scripts\\AjustarCamara.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Catastrofe\\Scripts\\AjustarCamara.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:29:14.035Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AdjustCollider.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Minijuegos\\Catastrofe\\Scripts\\AdjustCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Catastrofe\\Scripts\\AdjustCollider.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Minijuegos\\Catastrofe\\Scripts\\AdjustCollider.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Catastrofe\\Scripts\\AdjustCollider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:23:50.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-03-30T17:38:31.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MostrarPuntuacionFinal.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\MostrarPuntuacionFinal.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\MostrarPuntuacionFinal.cs",
               "RelativeDocumentMoniker": "Assets\\Common\\Scripts\\MostrarPuntuacionFinal.cs",
-              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\MostrarPuntuacionFinal.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\MostrarPuntuacionFinal.cs",
               "RelativeToolTip": "Assets\\Common\\Scripts\\MostrarPuntuacionFinal.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAA+wA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,47 +132,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "PuntuacionTotal.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\PuntuacionTotal.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\PuntuacionTotal.cs",
               "RelativeDocumentMoniker": "Assets\\Common\\Scripts\\PuntuacionTotal.cs",
-              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\PuntuacionTotal.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\PuntuacionTotal.cs",
               "RelativeToolTip": "Assets\\Common\\Scripts\\PuntuacionTotal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T22:54:01.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T22:54:01.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Puntuacion.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\Puntuacion.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\Puntuacion.cs",
               "RelativeDocumentMoniker": "Assets\\Common\\Scripts\\Puntuacion.cs",
-              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\Puntuacion.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\Puntuacion.cs",
               "RelativeToolTip": "Assets\\Common\\Scripts\\Puntuacion.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T22:47:36.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Transiciones.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\Transiciones.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\Transiciones.cs",
               "RelativeDocumentMoniker": "Assets\\Common\\Scripts\\Transiciones.cs",
-              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\Transiciones.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\Common\\Scripts\\Transiciones.cs",
               "RelativeToolTip": "Assets\\Common\\Scripts\\Transiciones.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T22:25:38.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "TMP_SubMesh.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\TMP\\TMP_SubMesh.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\TMP\\TMP_SubMesh.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\TMP\\TMP_SubMesh.cs",
-              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\TMP\\TMP_SubMesh.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\TMP\\TMP_SubMesh.cs",
               "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@03407c6d8751\\Runtime\\TMP\\TMP_SubMesh.cs",
               "ViewState": "AQIAADYCAAAAAAAAAAAcwFECAABvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,11 +179,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "TMP_SDF-Mobile.shader",
-              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
               "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
-              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\Juego Vitrual\\VirtuAlliance-main\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\JuegoVitrual\\VirtuAlliance-main\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
               "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
