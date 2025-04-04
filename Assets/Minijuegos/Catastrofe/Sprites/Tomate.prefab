@@ -10,11 +10,13 @@ GameObject:
   m_Component:
   - component: {fileID: 6858384225573870473}
   - component: {fileID: 544433439922545792}
+  - component: {fileID: 399318902662685842}
   - component: {fileID: 7062236135175622492}
   - component: {fileID: -2092287782847780519}
   - component: {fileID: 5253716822978193983}
   - component: {fileID: 111229274576190962}
   - component: {fileID: -5835997288474385652}
+  - component: {fileID: 2359184770973616762}
   m_Layer: 0
   m_Name: Tomate
   m_TagString: Tomate
@@ -93,6 +95,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &399318902662685842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2774616979159644476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c1f338b036ac2042880f2db500dcf32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!50 &7062236135175622492
 Rigidbody2D:
   serializedVersion: 5
@@ -127,7 +141,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2774616979159644476}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
@@ -164,7 +178,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 4.98, y: 4.44}
+  m_Size: {x: 0.996, y: 0.888}
   m_EdgeRadius: 0
 --- !u!114 &5253716822978193983
 MonoBehaviour:
@@ -275,6 +289,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2359184770973616762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2774616979159644476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6586115c4fb750c4dbac7afb1a044ea6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  escalaMultiplicador: 2
 --- !u!1 &8665511665720151212
 GameObject:
   m_ObjectHideFlags: 0

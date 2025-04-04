@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Suelo
+  - Mazon
+  - Tomate
+  - Barro
+  - Pala
+  - Limite_Inferior
   layers:
   - Default
   - TransparentFX
