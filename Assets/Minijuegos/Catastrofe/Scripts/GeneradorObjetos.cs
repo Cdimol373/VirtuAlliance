@@ -29,13 +29,12 @@ public class GeneradorDeObjetos : MonoBehaviour
     }
 
     // Ajusta los límites de la pantalla según la cámara
+  
     void AjustarLimitesPantalla()
     {
-        // Usamos ScreenToWorldPoint para obtener los límites de la cámara en el mundo
-        Vector3 bottomLeft = cam.ScreenToWorldPoint(new Vector3(0, 0, cam.nearClipPlane)); // Esquina inferior izquierda
-        Vector3 topRight = cam.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height, cam.nearClipPlane)); // Esquina superior derecha
+        Vector3 bottomLeft = cam.ViewportToWorldPoint(new Vector3(0, 0, 0));
+        Vector3 topRight = cam.ViewportToWorldPoint(new Vector3(1, 1, 0));
 
-        // Asignamos los límites
         limiteIzquierdo = bottomLeft.x;
         limiteDerecho = topRight.x;
         limiteInferior = bottomLeft.y;

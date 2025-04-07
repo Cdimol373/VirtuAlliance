@@ -97,11 +97,13 @@ GameObject:
   m_Component:
   - component: {fileID: 8108167946187519613}
   - component: {fileID: 8763183129817140249}
+  - component: {fileID: 73158076616118949}
   - component: {fileID: 2067646109379572680}
   - component: {fileID: -2997263130465295695}
   - component: {fileID: 1439285532654255342}
   - component: {fileID: -1274790056971950047}
   - component: {fileID: 298911089862697136}
+  - component: {fileID: 6111251006868236984}
   m_Layer: 0
   m_Name: Pala
   m_TagString: Pala
@@ -118,7 +120,7 @@ Transform:
   m_GameObject: {fileID: 4575835347658382297}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.09, y: 0.1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -180,6 +182,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &73158076616118949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4575835347658382297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c1f338b036ac2042880f2db500dcf32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!61 &2067646109379572680
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -187,7 +201,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4575835347658382297}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
@@ -224,7 +238,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 5.04, y: 4.18}
+  m_Size: {x: 1.68, y: 1.3933333}
   m_EdgeRadius: 0
 --- !u!50 &-2997263130465295695
 Rigidbody2D:
@@ -406,3 +420,16 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &6111251006868236984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4575835347658382297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6586115c4fb750c4dbac7afb1a044ea6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  escalaMultiplicador: 3
