@@ -23,6 +23,7 @@ public class GeneradorDeObjetos : MonoBehaviour
 
         // Ajustamos los límites según la cámara
         AjustarLimitesPantalla();
+        AumentoGravedad();
 
         // Llama a la función de generar objetos repetidamente
         InvokeRepeating("GenerarObjeto", 1f, tiempoEntreObjetos);

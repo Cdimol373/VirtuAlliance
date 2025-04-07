@@ -36,6 +36,12 @@ public class MazonMovimiento : MonoBehaviour
                 Vector3 movement = new Vector3(touchEndPos.x - touchStartPos.x, 0, 0);
                 transform.position += movement * speed * Time.deltaTime;
                 touchStartPos = touchEndPos;
+                float screenLimit = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, 0, 0)).x;
+                transform.position = new Vector3(
+                    Mathf.Clamp(transform.position.x, -screenLimit, screenLimit),
+                    transform.position.y,
+                    transform.position.z
+                );
             }
         }
     }
