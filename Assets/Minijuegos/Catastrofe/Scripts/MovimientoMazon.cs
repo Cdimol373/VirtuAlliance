@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;  // Asegúrate de agregar esta referencia para manejar escenas
 
 public class MazonMovimiento : MonoBehaviour
 {
@@ -62,7 +63,9 @@ public class MazonMovimiento : MonoBehaviour
     {
         if (vidas <= 0)
         {
-            
+            // Registrar puntaje final del minijuego
+            PuntajeManager.Instance.RegistrarPuntajeFinal();
+
             // Opcional: Puedes desactivar el movimiento si quieres que el personaje deje de moverse
             this.enabled = false;
 
@@ -72,6 +75,13 @@ public class MazonMovimiento : MonoBehaviour
                 hasDimitidoText.SetActive(true);
                 generadorObjetos.DetenerGeneracion();  // Desactiva el script de generación de objetos
             }
+            // Cargar la escena final (PantallaFinal)
+
+/////////////////////////
+///IMPORTANTE////////////
+            //SceneManager.LoadScene("PantallaFinal"); // CAMBIAR DE ESCENA, LO COMENTO PORQUE AQUI DEBERA IR LA ESCENA DEL SIGUIENTE JUEGO
+            ////////////////////////////////////////////////
+/////////////////////////
         }
     }
 

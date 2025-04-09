@@ -1,5 +1,5 @@
 using UnityEngine;
-using TMPro; // Si vas a usar TextMeshPro
+using TMPro;
 
 public class PuntuacionTotal : MonoBehaviour
 {
@@ -9,33 +9,29 @@ public class PuntuacionTotal : MonoBehaviour
 
     void Awake()
     {
-        // Comprobamos si ya existe una instancia
         if (instancia == null)
         {
             instancia = this;
-            DontDestroyOnLoad(gameObject); // Mantener entre escenas
+            DontDestroyOnLoad(gameObject);
         }
         else
         {
-            Destroy(gameObject); // Si ya existe, destruimos la nueva instancia
+            Destroy(gameObject);
         }
     }
 
-    // Método para agregar puntos al puntaje total
-    public void AgregarPuntuacionTotal(int puntos)
+    public void SumarPuntos(int puntos)
     {
         puntuacionTotal += puntos;
         Debug.Log("Puntuación Total: " + puntuacionTotal);
-        ActualizarTexto(); // Actualizamos el texto en pantalla
+        ActualizarTexto();
     }
 
-    // Método para obtener la puntuación total
     public int ObtenerPuntuacionTotal()
     {
         return puntuacionTotal;
     }
 
-    // Método para actualizar el texto de la puntuación en pantalla
     void ActualizarTexto()
     {
         if (textoPuntuacion != null)

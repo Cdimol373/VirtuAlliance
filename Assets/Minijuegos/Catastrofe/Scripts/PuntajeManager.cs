@@ -41,9 +41,12 @@ public class PuntajeManager : MonoBehaviour
     public void SumarPunto()
     {
         puntaje++; // Incrementa el puntaje
-        ActualizarTexto();
-        PuntuacionTotal.instancia.AgregarPuntuacionTotal(puntaje); // Actualiza el puntaje total
-               
+        ActualizarTexto();            
+    }
+
+    public void RegistrarPuntajeFinal()
+    {
+        PuntuacionTotal.instancia.SumarPuntos(puntaje); // Suma el puntaje total 1 sola vez
     }
 
     void ActualizarTexto()
