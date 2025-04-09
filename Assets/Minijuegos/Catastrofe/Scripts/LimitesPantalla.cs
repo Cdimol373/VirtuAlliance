@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 
+
 public class LimitesPantalla : MonoBehaviour
 {
     void Start()
@@ -31,6 +32,13 @@ public class LimitesPantalla : MonoBehaviour
 
     void CrearLimiteInferior()
     {
+        // Comprobar si ya existe un límite inferior antes de crear uno nuevo
+        if (GameObject.Find("Limite_Inferior") != null)
+        {
+            Debug.Log("Límite inferior ya existe. No se creará uno nuevo.");
+            return; // Si ya existe, no lo creamos
+        }
+
         GameObject limite = new GameObject("Limite_Inferior");
 
         // Obtener la posición del borde inferior de la pantalla
@@ -46,7 +54,6 @@ public class LimitesPantalla : MonoBehaviour
         collider.isTrigger = false; // Cambia a `true` si solo quieres detectar sin bloquear el movimiento
         collider.size = new Vector2(anchoPantalla, 0.5f);
         limite.tag = "Limite_Inferior"; // Asegúrate de que el tag coincida con el de OnCollisionEnter2D()
-
 
         // 🟢 Debug para comprobar la nueva posición
         Debug.Log("Límite inferior creado en Y: " + bottom.y);

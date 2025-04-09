@@ -7,7 +7,10 @@ public class MostrarPuntuacionFinal : MonoBehaviour
 
     void Start()
     {
-        textoPuntuacion.text = PuntuacionTotal.instancia.ObtenerPuntuacionTotal().ToString();
-
+        // Aseguramos que la referencia sea correcta
+        if (PuntuacionTotal.instancia != null)
+        {
+            textoPuntuacion.text = PuntuacionTotal.instancia.ObtenerPuntuacionTotal().ToString();
+        }
     }
 }

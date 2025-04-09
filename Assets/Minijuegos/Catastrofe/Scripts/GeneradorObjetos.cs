@@ -67,7 +67,7 @@ public class GeneradorDeObjetos : MonoBehaviour
         if (objetosCreados == 5)
         {
             
-            Physics2D.gravity += new Vector2(0, -0.5f); // Aumenta la gravedad con el tiempo
+            Physics2D.gravity += new Vector2(0, -10f); // Aumenta la gravedad con el tiempo
             Debug.Log("HOLA " + Physics2D.gravity);
             objetosCreados = 0;
         }
