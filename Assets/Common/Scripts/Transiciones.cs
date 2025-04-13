@@ -1,16 +1,20 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Transiciones : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public void CambiarEscena(string nombreEscena)
     {
-        
+        SceneManager.LoadScene(nombreEscena);
     }
 
-    // Update is called once per frame
+    void Start()
+    {
+        // Puedes inicializar variables aquí si es necesario
+    }
+
     void Update()
     {
-        
+        // Si más adelante necesitas animaciones o controles, puedes agregarlas aquí
     }
 }
