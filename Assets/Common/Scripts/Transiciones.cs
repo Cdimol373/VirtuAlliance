@@ -8,13 +8,4 @@ public class Transiciones : MonoBehaviour
         SceneManager.LoadScene(nombreEscena);
     }
 
-    void Start()
-    {
-        // Puedes inicializar variables aquí si es necesario
-    }
-
-    void Update()
-    {
-        // Si más adelante necesitas animaciones o controles, puedes agregarlas aquí
-    }
 }
