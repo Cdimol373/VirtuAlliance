@@ -1,24 +1,28 @@
 using UnityEngine;
 
-public class CazadorDisparo : MonoBehaviour
+public class CazadorDisparoNuevo : MonoBehaviour
 {
     public GameObject balaPrefab;
     public Transform puntoDisparo;
     public float tiempoEntreDisparos = 0.5f;
+    public float velocidadBala = 10f; // <-- Añadido
+
     private float tiempoUltimoDisparo;
 
-    void Update()
+    public void Disparar()
     {
-        // Detecta si el botón B está presionado y controla el tiempo entre disparos
-        if (ControlesUI.botonBPresionado && Time.time > tiempoUltimoDisparo + tiempoEntreDisparos)
+        if (Time.time > tiempoUltimoDisparo + tiempoEntreDisparos)
         {
-            Disparar();
+            GameObject bala = Instantiate(balaPrefab, puntoDisparo.position, Quaternion.identity);
+
+            // Darle velocidad
+            Rigidbody2D rbBala = bala.GetComponent<Rigidbody2D>();
+            if (rbBala != null)
+            {
+                rbBala.linearVelocity = new Vector2(transform.localScale.x * velocidadBala, 0f);
+            }
+
             tiempoUltimoDisparo = Time.time;
         }
-    }
-
-    void Disparar()
-    {
-        Instantiate(balaPrefab, puntoDisparo.position, Quaternion.identity);
     }
 }
