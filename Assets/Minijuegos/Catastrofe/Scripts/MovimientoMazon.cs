@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class MazonMovimiento : MonoBehaviour
 {
@@ -18,6 +19,7 @@ public class MazonMovimiento : MonoBehaviour
     {
        
         ActualizarVidasUI(); //Actualizar vidas al iniciar
+        MusicaManager.instancia.ReproducirMusica();
     }
 
     void Update()
@@ -62,7 +64,8 @@ public class MazonMovimiento : MonoBehaviour
     {
         if (vidas <= 0)
         {
-            
+            MusicaManager.instancia.DetenerMusica();
+
             // Opcional: Puedes desactivar el movimiento si quieres que el personaje deje de moverse
             this.enabled = false;
 
@@ -71,7 +74,9 @@ public class MazonMovimiento : MonoBehaviour
             {
                 hasDimitidoText.SetActive(true);
                 generadorObjetos.DetenerGeneracion();  // Desactiva el script de generación de objetos
+
             }
+            SceneManager.LoadScene("Cazador");
         }
     }
 
