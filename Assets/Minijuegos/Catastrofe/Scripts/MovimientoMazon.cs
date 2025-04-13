@@ -77,11 +77,9 @@ public class MazonMovimiento : MonoBehaviour
             }
             // Cargar la escena final (PantallaFinal)
 
-/////////////////////////
-///IMPORTANTE////////////
-            //SceneManager.LoadScene("PantallaFinal"); // CAMBIAR DE ESCENA, LO COMENTO PORQUE AQUI DEBERA IR LA ESCENA DEL SIGUIENTE JUEGO
-            ////////////////////////////////////////////////
-/////////////////////////
+
+            SceneManager.LoadScene("Cazador"); // CAMBIAR DE ESCENA, LO COMENTO PORQUE AQUI DEBERA IR LA ESCENA DEL SIGUIENTE JUEGO
+          
         }
     }
 
