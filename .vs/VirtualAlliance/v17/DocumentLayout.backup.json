@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitanillaE\\UOC\\VirtualAlliance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38F7C65D-3AFE-EE27-33CE-8307DA5CF81C}|Assembly-CSharp.csproj|e:\\gitanillae\\uoc\\virtualalliance\\assets\\minijuegos\\torbi\\mio\\assets\\scripts\\ui\\missionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F7C65D-3AFE-EE27-33CE-8307DA5CF81C}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\torbi\\mio\\assets\\scripts\\ui\\missionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F7C65D-3AFE-EE27-33CE-8307DA5CF81C}|Assembly-CSharp.csproj|e:\\gitanillae\\uoc\\virtualalliance\\assets\\common\\scripts\\transiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F7C65D-3AFE-EE27-33CE-8307DA5CF81C}|Assembly-CSharp.csproj|solutionrelative:assets\\common\\scripts\\transiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MissionUI.cs",
+              "DocumentMoniker": "E:\\GitanillaE\\UOC\\VirtualAlliance\\Assets\\Minijuegos\\Torbi\\Mio\\Assets\\Scripts\\UI\\MissionUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Torbi\\Mio\\Assets\\Scripts\\UI\\MissionUI.cs",
+              "ToolTip": "E:\\GitanillaE\\UOC\\VirtualAlliance\\Assets\\Minijuegos\\Torbi\\Mio\\Assets\\Scripts\\UI\\MissionUI.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Torbi\\Mio\\Assets\\Scripts\\UI\\MissionUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:30:06.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transiciones.cs",
+              "DocumentMoniker": "E:\\GitanillaE\\UOC\\VirtualAlliance\\Assets\\Common\\Scripts\\Transiciones.cs",
+              "RelativeDocumentMoniker": "Assets\\Common\\Scripts\\Transiciones.cs",
+              "ToolTip": "E:\\GitanillaE\\UOC\\VirtualAlliance\\Assets\\Common\\Scripts\\Transiciones.cs",
+              "RelativeToolTip": "Assets\\Common\\Scripts\\Transiciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:49:27.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

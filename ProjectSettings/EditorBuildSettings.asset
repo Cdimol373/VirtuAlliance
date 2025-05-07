@@ -12,5 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/JuegoCatastrofe.unity
     guid: 4839451770ca6444181cfd998095891c
   m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: c1dbd896f3ee143419037edec3d7c6dd, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 20d8d2de8ed9318438842148ff8992ec, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 1262710bffa3fdf4fa7e96671347cb79, type: 2}
   m_UseUCBPForAssetBundles: 0
