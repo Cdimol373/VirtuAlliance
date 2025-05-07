@@ -10,11 +10,11 @@ public class Transiciones : MonoBehaviour
 
     void Start()
     {
-        // Puedes inicializar variables aquí si es necesario
+        // Puedes inicializar variables aquï¿½ si es necesario
     }
 
     void Update()
     {
-        // Si más adelante necesitas animaciones o controles, puedes agregarlas aquí
+        // Si mï¿½s adelante necesitas animaciones o controles, puedes agregarlas aquï¿½
     }
 }

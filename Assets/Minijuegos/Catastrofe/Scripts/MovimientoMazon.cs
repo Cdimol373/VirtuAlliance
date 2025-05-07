@@ -6,7 +6,7 @@ public class MazonMovimiento : MonoBehaviour
 {
     private Vector3 touchStartPos;
     private Vector3 touchEndPos;
-    private float speed = 200f; // Velocidad de movimiento
+    private float speed = 43f; // Velocidad de movimiento
 
     public int vidas = 3; // Numero de vidas iniciales
     public TextMeshProUGUI vidasContador;  // Referencia al texto UI de vidas
@@ -76,7 +76,8 @@ public class MazonMovimiento : MonoBehaviour
                 generadorObjetos.DetenerGeneracion();  // Desactiva el script de generación de objetos
 
             }
-            SceneManager.LoadScene("Cazador");
+            SceneManager.LoadScene("ARMarcos");
+
         }
     }
 

@@ -1,0 +1,48 @@
+[33mb11353b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mMarcos-Llimera[m[33m, [m[1;31morigin/IntegracionFinal[m[33m)[m HEAD@{0}: reset: moving to origin/IntegracionFinal
+[33m02fae5e[m HEAD@{1}: checkout: moving from Marcos-Llimera to Marcos-Llimera
+[33m02fae5e[m HEAD@{2}: reset: moving to HEAD
+[33m02fae5e[m HEAD@{3}: commit: Guardando mis cambios locales antes del merge
+[33ma46e4df[m[33m ([m[1;31morigin/Marcos-Llimera[m[33m)[m HEAD@{4}: commit: Añadida musica a juego Catastrofe
+[33mbb83e10[m HEAD@{5}: commit (merge): Merge remote-tracking branch 'origin/MainPrueba' into Marcos-Llimera
+[33mf636828[m[33m ([m[1;32mMarc[m[33m)[m HEAD@{6}: checkout: moving from Marcos-Llimera to Marcos-Llimera
+[33mf636828[m[33m ([m[1;32mMarc[m[33m)[m HEAD@{7}: reset: moving to a76f6b685b36ae9b5462e189e8502586bad87d0d~
+[33m9ef787d[m HEAD@{8}: commit (merge): Merge de IntegracionFinal, usando solo sus cambios
+[33ma76f6b6[m[33m ([m[1;32mMainPrueba[m[33m)[m HEAD@{9}: reset: moving to HEAD
+[33ma76f6b6[m[33m ([m[1;32mMainPrueba[m[33m)[m HEAD@{10}: checkout: moving from MainPrueba to Marcos-Llimera
+[33ma76f6b6[m[33m ([m[1;32mMainPrueba[m[33m)[m HEAD@{11}: reset: moving to a76f6b685b36ae9b5462e189e8502586bad87d0d
+[33m6c712e3[m[33m ([m[1;31morigin/MainPrueba[m[33m)[m HEAD@{12}: checkout: moving from Marcos-Llimera to MainPrueba
+[33ma76f6b6[m[33m ([m[1;32mMainPrueba[m[33m)[m HEAD@{13}: reset: moving to HEAD
+[33ma76f6b6[m[33m ([m[1;32mMainPrueba[m[33m)[m HEAD@{14}: pull origin MainPrueba: updating HEAD
+[33ma76f6b6[m[33m ([m[1;32mMainPrueba[m[33m)[m HEAD@{15}: checkout: moving from Marc to Marcos-Llimera
+[33mf636828[m[33m ([m[1;32mMarc[m[33m)[m HEAD@{16}: reset: moving to a76f6b685b36ae9b5462e189e8502586bad87d0d~
+[33m5433cf6[m HEAD@{17}: checkout: moving from Marcos-Llimera to Marc
+[33ma76f6b6[m[33m ([m[1;32mMainPrueba[m[33m)[m HEAD@{18}: commit: Puntaje Marcos (LaCatastrofe) arreglado y funcionando
+[33mf636828[m[33m ([m[1;32mMarc[m[33m)[m HEAD@{19}: commit: Juego Marcos funcionando con puntaje
+[33m3be210d[m HEAD@{20}: commit: Actualización del proyecto
+[33m2d14a45[m HEAD@{21}: checkout: moving from ingrid to Marcos-Llimera
+[33m4261393[m[33m ([m[1;32mIngrid[m[33m)[m HEAD@{22}: checkout: moving from Marcos-Llimera to ingrid
+[33m2d14a45[m HEAD@{23}: reset: moving to HEAD
+[33m2d14a45[m HEAD@{24}: checkout: moving from ingrid to Marcos-Llimera
+[33m4261393[m[33m ([m[1;32mIngrid[m[33m)[m HEAD@{25}: checkout: moving from Marcos-Llimera to ingrid
+[33m2d14a45[m HEAD@{26}: commit: Cambios locales antes de hacer pull
+[33m5b76efd[m[33m ([m[1;32mCOPIA-MARCOS[m[33m)[m HEAD@{27}: checkout: moving from COPIA-MARCOS to Marcos-Llimera
+[33m5b76efd[m[33m ([m[1;32mCOPIA-MARCOS[m[33m)[m HEAD@{28}: checkout: moving from Marcos-Llimera to COPIA-MARCOS
+[33m5b76efd[m[33m ([m[1;32mCOPIA-MARCOS[m[33m)[m HEAD@{29}: checkout: moving from 407f79835c755da7ef232bbb229e1afdebf16b75 to Marcos-Llimera
+[33m407f798[m HEAD@{30}: checkout: moving from Marcos-Llimera to 407f798
+[33m5b76efd[m[33m ([m[1;32mCOPIA-MARCOS[m[33m)[m HEAD@{31}: reset: moving to HEAD
+[33m5b76efd[m[33m ([m[1;32mCOPIA-MARCOS[m[33m)[m HEAD@{32}: commit (merge): Resuelto conflicto en ProjectSettings/EditorBuildSettings.asset
+[33m407f798[m HEAD@{33}: reset: moving to origin/Marcos-Llimera
+[33m103fc8e[m HEAD@{34}: checkout: moving from ingrid to Marcos-Llimera
+[33m4261393[m[33m ([m[1;32mIngrid[m[33m)[m HEAD@{35}: reset: moving to HEAD
+[33m4261393[m[33m ([m[1;32mIngrid[m[33m)[m HEAD@{36}: checkout: moving from Marcos-Llimera to ingrid
+[33m103fc8e[m HEAD@{37}: commit: Tus cambios antes de cambiar de rama
+[33m407f798[m HEAD@{38}: checkout: moving from Ingrid to Marcos-Llimera
+[33m4261393[m[33m ([m[1;32mIngrid[m[33m)[m HEAD@{39}: checkout: moving from Marcos-Llimera to Ingrid
+[33m407f798[m HEAD@{40}: reset: moving to origin/Marcos-Llimera
+[33m39259b3[m HEAD@{41}: commit (merge): Resolviendo conflictos, quedándome con la versión de Ingrid
+[33m407f798[m HEAD@{42}: commit: Agregando juego Marcos Llimera
+[33m8e4ad3a[m HEAD@{43}: reset: moving to origin/Marcos-Llimera
+[33m17dbd66[m HEAD@{44}: pull origin Ingrid: Fast-forward
+[33m8e4ad3a[m HEAD@{45}: commit: Agregando juego Marcos Llimera
+[33m322893c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/Yaivier[m[33m, [m[1;31morigin/Marc-Buena[m[33m, [m[1;31morigin/Main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/ElUltimoCazador[m[33m, [m[1;32mmain[m[33m)[m HEAD@{46}: checkout: moving from main to Marcos-Llimera
+[33m322893c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/Yaivier[m[33m, [m[1;31morigin/Marc-Buena[m[33m, [m[1;31morigin/Main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/ElUltimoCazador[m[33m, [m[1;32mmain[m[33m)[m HEAD@{47}: clone: from https://github.com/Cdimol373/VirtuAlliance.git
