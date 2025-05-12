@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cazador.unity
     guid: 218c6d58202d1724a91bce9bbb7153bd
+  - enabled: 1
+    path: Assets/Scenes/PantallaFinal.unity
+    guid: 26ecd136bc0914046afa199be2a73cc2
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 986a14dbef83bcd4a8ec318e1eeb1e6f, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 7e519363fe757894f91ca1c630f1db74, type: 2}
