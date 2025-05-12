@@ -10,6 +10,7 @@ TagManager:
   - Barro
   - Pala
   - Limite_Inferior
+  - Ball
   layers:
   - Default
   - TransparentFX

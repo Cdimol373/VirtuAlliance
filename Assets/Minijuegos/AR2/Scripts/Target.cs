@@ -6,8 +6,10 @@ public class Target : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Ball"))
         {
-            Debug.Log("¡Le diste a la diana!");
-            ScoreManager.Instance.AddPoint();
+            GameManager.Instance.AddPoint();  // Asegúrate de que GameManager esté configurado correctamente
         }
     }
 }
+
+
+
