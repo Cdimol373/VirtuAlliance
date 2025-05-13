@@ -76,7 +76,7 @@ public class MazonMovimiento : MonoBehaviour
                 generadorObjetos.DetenerGeneracion();  // Desactiva el script de generación de objetos
 
             }
-            SceneManager.LoadScene("ARMarcos");
+            SceneManager.LoadScene("2ndo2D");
 
         }
     }
