@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "E:\\GitanillaE\\UOC\\VirtualAlliance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38F7C65D-3AFE-EE27-33CE-8307DA5CF81C}|Assembly-CSharp.csproj|e:\\gitanillae\\uoc\\virtualalliance\\assets\\common\\scripts\\transiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F7C65D-3AFE-EE27-33CE-8307DA5CF81C}|Assembly-CSharp.csproj|solutionrelative:assets\\common\\scripts\\transiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38F7C65D-3AFE-EE27-33CE-8307DA5CF81C}|Assembly-CSharp.csproj|e:\\gitanillae\\uoc\\virtualalliance\\assets\\minijuegos\\torbi\\misscripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F7C65D-3AFE-EE27-33CE-8307DA5CF81C}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\torbi\\misscripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F7C65D-3AFE-EE27-33CE-8307DA5CF81C}|Assembly-CSharp.csproj|e:\\gitanillae\\uoc\\virtualalliance\\assets\\minijuegos\\torbi\\misscripts\\dinojoystickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F7C65D-3AFE-EE27-33CE-8307DA5CF81C}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\torbi\\misscripts\\dinojoystickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +39,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Transiciones.cs",
-              "DocumentMoniker": "E:\\GitanillaE\\UOC\\VirtualAlliance\\Assets\\Common\\Scripts\\Transiciones.cs",
-              "RelativeDocumentMoniker": "Assets\\Common\\Scripts\\Transiciones.cs",
-              "ToolTip": "E:\\GitanillaE\\UOC\\VirtualAlliance\\Assets\\Common\\Scripts\\Transiciones.cs",
-              "RelativeToolTip": "Assets\\Common\\Scripts\\Transiciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "E:\\GitanillaE\\UOC\\VirtualAlliance\\Assets\\Minijuegos\\Torbi\\MisScripts\\Fruit.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Torbi\\MisScripts\\Fruit.cs",
+              "ToolTip": "E:\\GitanillaE\\UOC\\VirtualAlliance\\Assets\\Minijuegos\\Torbi\\MisScripts\\Fruit.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Torbi\\MisScripts\\Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:49:27.318Z",
+              "WhenOpened": "2025-05-14T15:16:47.092Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DinoJoystickController.cs",
+              "DocumentMoniker": "E:\\GitanillaE\\UOC\\VirtualAlliance\\Assets\\Minijuegos\\Torbi\\MisScripts\\DinoJoystickController.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Torbi\\MisScripts\\DinoJoystickController.cs",
+              "ToolTip": "E:\\GitanillaE\\UOC\\VirtualAlliance\\Assets\\Minijuegos\\Torbi\\MisScripts\\DinoJoystickController.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Torbi\\MisScripts\\DinoJoystickController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T06:29:53.441Z",
+              "EditorCaption": ""
             }
           ]
         }
