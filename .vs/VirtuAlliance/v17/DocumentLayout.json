@@ -22,11 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -38,8 +42,7 @@
               "RelativeToolTip": "Assets\\Minijuegos\\2ndo2D\\Scripts\\AudioManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T17:54:22.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T17:54:22.922Z"
             },
             {
               "$type": "Document",
@@ -49,7 +52,7 @@
               "RelativeDocumentMoniker": "Assets\\Minijuegos\\2ndo2D\\Scripts\\Funcionamiento.cs",
               "ToolTip": "C:\\Users\\SoulMaster\\Desktop\\VirtuAlliance\\Assets\\Minijuegos\\2ndo2D\\Scripts\\Funcionamiento.cs",
               "RelativeToolTip": "Assets\\Minijuegos\\2ndo2D\\Scripts\\Funcionamiento.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAowHoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowIYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T16:23:16.009Z",
               "EditorCaption": ""
@@ -62,14 +65,10 @@
               "RelativeDocumentMoniker": "Assets\\Minijuegos\\2ndo2D\\Scripts\\Pato.cs",
               "ToolTip": "C:\\Users\\SoulMaster\\Desktop\\VirtuAlliance\\Assets\\Minijuegos\\2ndo2D\\Scripts\\Pato.cs",
               "RelativeToolTip": "Assets\\Minijuegos\\2ndo2D\\Scripts\\Pato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T16:19:46.219Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
