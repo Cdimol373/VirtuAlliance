@@ -245,7 +245,11 @@ GameObject:
   - component: {fileID: 148680890}
   - component: {fileID: 148680889}
   - component: {fileID: 148680884}
+<<<<<<< Updated upstream
   m_Layer: 6
+=======
+  m_Layer: 7
+>>>>>>> Stashed changes
   m_Name: TriSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -525,7 +529,11 @@ GameObject:
   - component: {fileID: 955127916}
   - component: {fileID: 955127917}
   - component: {fileID: 955127919}
+<<<<<<< Updated upstream
   m_Layer: 6
+=======
+  m_Layer: 7
+>>>>>>> Stashed changes
   m_Name: Icosahedron
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -836,7 +844,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1199920617}
+<<<<<<< Updated upstream
   m_Layer: 6
+=======
+  m_Layer: 7
+>>>>>>> Stashed changes
   m_Name: Treasure
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -878,7 +890,11 @@ GameObject:
   - component: {fileID: 1490385955}
   - component: {fileID: 1490385954}
   - component: {fileID: 1490385949}
+<<<<<<< Updated upstream
   m_Layer: 6
+=======
+  m_Layer: 7
+>>>>>>> Stashed changes
   m_Name: QuadSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1085,10 +1101,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: CardboardReticlePointer
       objectReference: {fileID: 0}
+<<<<<<< Updated upstream
     - target: {fileID: 171526, guid: 15fcd94adb15b48f7bb4a80622ae7046, type: 3}
       propertyPath: m_Layer
       value: 6
       objectReference: {fileID: 0}
+=======
+>>>>>>> Stashed changes
     - target: {fileID: 482300, guid: 15fcd94adb15b48f7bb4a80622ae7046, type: 3}
       propertyPath: m_RootOrder
       value: 0

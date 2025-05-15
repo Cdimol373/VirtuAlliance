@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ﻿//-----------------------------------------------------------------------
+=======
+//-----------------------------------------------------------------------
+>>>>>>> Stashed changes
 // <copyright file="CardboardStartup.cs" company="Google LLC">
 // Copyright 2020 Google LLC
 //
@@ -15,6 +19,7 @@
 // limitations under the License.
 // </copyright>
 //-----------------------------------------------------------------------
+<<<<<<< Updated upstream
 using Google.XR.Cardboard;
 using UnityEngine;
 using UnityEngine.XR.Management;
@@ -37,12 +42,41 @@ public class CardboardStartup : MonoBehaviour
             Debug.Log("✅ XR Loader ya estaba activo.");
         }
 
+=======
+
+using Google.XR.Cardboard;
+using UnityEngine;
+
+/// <summary>
+/// Initializes Cardboard XR Plugin.
+/// </summary>
+public class CardboardStartup : MonoBehaviour
+{
+    /// <summary>
+    /// Start is called before the first frame update.
+    /// </summary>
+    public void Start()
+    {
+        // Configures the app to not shut down the screen and sets the brightness to maximum.
+        // Brightness control is expected to work only in iOS, see:
+        // https://docs.unity3d.com/ScriptReference/Screen-brightness.html.
+        Screen.sleepTimeout = SleepTimeout.NeverSleep;
+        Screen.brightness = 1.0f;
+
+        // Checks if the device parameters are stored and scans them if not.
+>>>>>>> Stashed changes
         if (!Api.HasDeviceParams())
         {
             Api.ScanDeviceParams();
         }
     }
 
+<<<<<<< Updated upstream
+=======
+    /// <summary>
+    /// Update is called once per frame.
+    /// </summary>
+>>>>>>> Stashed changes
     public void Update()
     {
         if (Api.IsGearButtonPressed)
@@ -68,4 +102,7 @@ public class CardboardStartup : MonoBehaviour
         Api.UpdateScreenParams();
     }
 }
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes

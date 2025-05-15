@@ -30,7 +30,28 @@ MonoBehaviour:
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
   m_Loaders:
+<<<<<<< Updated upstream
   - {fileID: 11400000, guid: c6933e10bbfebac41be4eff6338d4e7f, type: 2}
+=======
+  - {fileID: 11400000, guid: 6aec53d474e7ae948b8e1c921eaaacca, type: 2}
+--- !u!114 &-3350149193913821776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4c3631f5e58749a59194e0cf6baf6d5, type: 3}
+  m_Name: iPhone Providers
+  m_EditorClassIdentifier: 
+  m_RequiresSettingsUpdate: 0
+  m_AutomaticLoading: 0
+  m_AutomaticRunning: 0
+  m_Loaders:
+  - {fileID: 11400000, guid: 504dfd6add68d4c4696b9d4a1a417a03, type: 2}
+>>>>>>> Stashed changes
 --- !u!114 &-442142976683489823
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -76,4 +97,21 @@ MonoBehaviour:
   m_Name: Android Settings
   m_EditorClassIdentifier: 
   m_LoaderManagerInstance: {fileID: -6358589193417026181}
+<<<<<<< Updated upstream
+=======
+  m_InitManagerOnStart: 0
+--- !u!114 &714378272825988950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d236b7d11115f2143951f1e14045df39, type: 3}
+  m_Name: iPhone Settings
+  m_EditorClassIdentifier: 
+  m_LoaderManagerInstance: {fileID: -3350149193913821776}
+>>>>>>> Stashed changes
   m_InitManagerOnStart: 1

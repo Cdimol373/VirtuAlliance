@@ -1,0 +1,5 @@
+C:/Users/Administrator/OneDrive/Escritorio/VirtuAlliance/.utmp/RelWithDebInfo/6m6h6b1r/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/OneDrive/Escritorio/VirtuAlliance/.utmp/RelWithDebInfo/6m6h6b1r/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/OneDrive/Escritorio/VirtuAlliance/.utmp/RelWithDebInfo/6m6h6b1r/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Administrator/OneDrive/Escritorio/VirtuAlliance/.utmp/RelWithDebInfo/6m6h6b1r/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/OneDrive/Escritorio/VirtuAlliance/.utmp/RelWithDebInfo/6m6h6b1r/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

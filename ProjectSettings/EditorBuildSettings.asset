@@ -12,17 +12,32 @@ EditorBuildSettings:
     path: Assets/Scenes/JuegoCatastrofe.unity
     guid: 4839451770ca6444181cfd998095891c
   - enabled: 0
+<<<<<<< Updated upstream
     path: Assets/Scenes/Cazador.unity
     guid: 218c6d58202d1724a91bce9bbb7153bd
   - enabled: 0
     path: Assets/Minijuegos/Mago/Scenes/SalaMagica.unity
+=======
+    path: Assets/Scenes/ARMarcos.unity
+    guid: 0e2f8239e9fc86943ab2d6994f52d489
+  - enabled: 0
+    path: Assets/Scenes/Cazador.unity
+    guid: 218c6d58202d1724a91bce9bbb7153bd
+  - enabled: 0
+    path: Assets/Scenes/SalaMagica.unity
+>>>>>>> Stashed changes
     guid: f83a409d6e9e4204dba3abb60363e1b7
   - enabled: 0
     path: Assets/Scenes/PantallaFinal.unity
     guid: 26ecd136bc0914046afa199be2a73cc2
   - enabled: 1
+<<<<<<< Updated upstream
     path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.28.0/Hello Cardboard/Scenes/VrMode.unity
     guid: a45c80a4da1fa4625a30ce04b599e90d
+=======
+    path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.28.0/Hello Cardboard/Scenes/HelloCardboard.unity
+    guid: 03c48c5e809944fa4afcae9973709f26
+>>>>>>> Stashed changes
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 20535fad62aa09a4bb054ea9eadd4d1c, type: 2}
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 10130bc51f9e2584197930425049885a, type: 2}
