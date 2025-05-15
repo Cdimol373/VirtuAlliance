@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuInicial.unity
+    guid: 7728f7c0ef276db4f8675503c6f9379d
+  - enabled: 1
+    path: Assets/Scenes/JuegoCatastrofe.unity
+    guid: 4839451770ca6444181cfd998095891c
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: c1dbd896f3ee143419037edec3d7c6dd, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 20d8d2de8ed9318438842148ff8992ec, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 1262710bffa3fdf4fa7e96671347cb79, type: 2}
+  m_UseUCBPForAssetBundles: 0
