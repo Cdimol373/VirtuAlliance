@@ -64,6 +64,6 @@ public class GameManager : MonoBehaviour
     IEnumerator CargarPantallaFinal()
     {
         yield return new WaitForSeconds(1.5f); // Espera opcional para que el jugador vea el final
-        SceneManager.LoadScene("PantallaFinal");
+        SceneManager.LoadScene("TorbiScene");
     }
 }
