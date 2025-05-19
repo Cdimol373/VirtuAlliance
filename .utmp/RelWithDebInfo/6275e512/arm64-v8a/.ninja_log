@@ -1,12 +1,12 @@
 # ninja log v5
-514	4961	7684238910063899	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a5946b75033ecedb
-530	5174	7684238907411554	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	4d267b536ecf5e0
-461	5442	7684238912765887	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	45263120143d3ca1
-146	5711	7684238918194273	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	da50d6c332521f66
-102	5764	7684238918024379	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	2f25c4eed27896a2
-494	5859	7684238918764388	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	f5d5d3c5ed300d1f
-76	6047	7684238921621324	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	627d7a59ff64e6f0
-2	6131	7684238922461312	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a14653eb7aa1067f
-439	6353	7684238924932577	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	751e31f19390d393
-5222	6474	7684238926239095	C:/Users/SoulMaster/Desktop/VirtuAlliance/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6275e512/obj/arm64-v8a/libswappywrapper.so	690a898f92a67028
-6354	6721	7684238928875632	C:/Users/SoulMaster/Desktop/VirtuAlliance/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6275e512/obj/arm64-v8a/libgame.so	11ec5ba94dbcbb4
+122	1190	7693429293468436	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	4d267b536ecf5e0
+1241	2060	7693429301458411	C:/Users/SoulMaster/Desktop/VirtuAlliance/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6275e512/obj/arm64-v8a/libswappywrapper.so	690a898f92a67028
+9	3167	7693429313258409	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a14653eb7aa1067f
+78	3192	7693429313428390	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a5946b75033ecedb
+46	3324	7693429315048393	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	2f25c4eed27896a2
+16	3356	7693429315358390	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	751e31f19390d393
+24	3406	7693429315948359	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	f5d5d3c5ed300d1f
+33	3829	7693429320098349	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	da50d6c332521f66
+99	3832	7693429320178347	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	45263120143d3ca1
+1	4028	7693429322058352	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	627d7a59ff64e6f0
+4029	4230	7693429324458407	C:/Users/SoulMaster/Desktop/VirtuAlliance/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6275e512/obj/arm64-v8a/libgame.so	11ec5ba94dbcbb4

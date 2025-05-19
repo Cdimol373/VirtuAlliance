@@ -21,7 +21,11 @@ EditorBuildSettings:
     path: Assets/Scenes/TorbiScene.unity
     guid: 00ad17d337a65f940adcf6e7def9f43e
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 986a14dbef83bcd4a8ec318e1eeb1e6f, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 4cc103f34ecb5f449bd0e6d4afafc668, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 8c676e8f4e148b84cab747c3e40a0361, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: c1dbd896f3ee143419037edec3d7c6dd, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c45aeda4812fbbf48a194469ec73a433, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 20d8d2de8ed9318438842148ff8992ec, type: 2}
     xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 1262710bffa3fdf4fa7e96671347cb79, type: 2}
   m_UseUCBPForAssetBundles: 0
