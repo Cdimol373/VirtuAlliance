@@ -1,11 +1,19 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: ea3b2b83816719041b2b7c5f3953967d
+=======
+guid: 071cfb879efbdb24e840bdd4e76a3dfb
+>>>>>>> Stashed changes
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
   externalObjects: {}
   materials:
+<<<<<<< Updated upstream
     materialImportMode: 1
+=======
+    materialImportMode: 2
+>>>>>>> Stashed changes
     materialName: 0
     materialSearch: 1
     materialLocation: 0

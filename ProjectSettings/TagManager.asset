@@ -10,10 +10,17 @@ TagManager:
   - Barro
   - Pala
   - Limite_Inferior
+<<<<<<< Updated upstream
+=======
+  - Ball
+  - Libro
+  - Interactivo
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
+<<<<<<< Updated upstream
   - Suelo
   - Water
   - UI
@@ -21,6 +28,12 @@ TagManager:
   - Interactive
 =======
   - interactive
+>>>>>>> Stashed changes
+=======
+  - Iteractive
+  - Water
+  - UI
+  - Paredes
 >>>>>>> Stashed changes
   - 
   - 

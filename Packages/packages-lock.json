@@ -9,7 +9,11 @@
         "com.unity.xr.management": "3.2.9",
         "com.unity.xr.legacyinputhelpers": "2.1.4"
       },
+<<<<<<< Updated upstream
       "hash": "49be58d54f05b515ea527857b99b973e2184368c"
+=======
+      "hash": "dbd1829ff0520e42d5a4852daa512462b4bcb6fd"
+>>>>>>> Stashed changes
     },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
@@ -28,6 +32,20 @@
     },
     "com.unity.adaptiveperformance.google.android": {
       "version": "5.1.4",
+<<<<<<< Updated upstream
+=======
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.androidjni": "1.0.0",
+        "com.unity.modules.subsystems": "1.0.0",
+        "com.unity.adaptiveperformance": "5.1.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.adaptiveperformance.samsung.android": {
+      "version": "5.0.0",
+>>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {

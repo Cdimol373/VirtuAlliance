@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
 guid: faa38e71a98119946abf5fbf4e18f932
+=======
+guid: 8f3dc9a332cf6844fbd2bb0a7ec3d38c
+>>>>>>> Stashed changes
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -8,7 +12,11 @@ ModelImporter:
     materialImportMode: 2
     materialName: 0
     materialSearch: 1
+<<<<<<< Updated upstream
     materialLocation: 1
+=======
+    materialLocation: 0
+>>>>>>> Stashed changes
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0

@@ -31,9 +31,13 @@ MonoBehaviour:
   m_AutomaticRunning: 0
   m_Loaders:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - {fileID: 11400000, guid: c6933e10bbfebac41be4eff6338d4e7f, type: 2}
 =======
   - {fileID: 11400000, guid: 6aec53d474e7ae948b8e1c921eaaacca, type: 2}
+=======
+  - {fileID: 11400000, guid: 4f9ec336b7c2b2d41a7f2aa6c4aacaf3, type: 2}
+>>>>>>> Stashed changes
 --- !u!114 &-3350149193913821776
 MonoBehaviour:
   m_ObjectHideFlags: 0

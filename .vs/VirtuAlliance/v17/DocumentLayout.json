@@ -1,6 +1,7 @@
 {
   "Version": 1,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "WorkspaceRootPath": "E:\\UOC\\3r Semestre\\Dise\u00F1o y programaci\u00F3n de un videojuego en VR i AR\\AA1\\VirtuAlliance\\VirtuAlliance\\",
   "Documents": [
     {
@@ -32,18 +33,86 @@
     {
       "AbsoluteMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|c:\\users\\administrator\\onedrive\\escritorio\\virtualliance\\assets\\minijuegos\\mago\\scripts\\bookfloattrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\mago\\scripts\\bookfloattrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\assets\\minijuegos\\mago\\scripts\\tiempomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\mago\\scripts\\tiempomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\assets\\minijuegos\\mago\\scripts\\puntuacionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\mago\\scripts\\puntuacionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|c:\\users\\administrator\\onedrive\\escritorio\\virtualliance\\assets\\minijuegos\\mago\\scripts\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\mago\\scripts\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\assets\\minijuegos\\mago\\scripts\\seguirmirada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\mago\\scripts\\seguirmirada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\assets\\minijuegos\\mago\\scripts\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\mago\\scripts\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\assets\\minijuegos\\mago\\scripts\\canvasinteractivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\mago\\scripts\\canvasinteractivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\assets\\minijuegos\\mago\\scripts\\canvasfijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\mago\\scripts\\canvasfijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Library\\PackageCache\\com.unity.mobile.notifications@439e41e635a0\\Editor\\NotificationSettingsProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.mobile.notifications@439e41e635a0\\Editor\\NotificationSettingsProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\assets\\minijuegos\\catastrofe\\scripts\\puntajemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\catastrofe\\scripts\\puntajemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\assets\\minijuegos\\catastrofe\\scripts\\generadorobjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\catastrofe\\scripts\\generadorobjetos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\assets\\common\\scripts\\transiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|solutionrelative:assets\\common\\scripts\\transiciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\assets\\minijuegos\\2ndo2d\\scripts\\funcionamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8CC07CC-5824-204E-4C24-840D7B93070D}|Assembly-CSharp.csproj|solutionrelative:assets\\minijuegos\\2ndo2d\\scripts\\funcionamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Library\\PackageCache\\com.unity.visualscripting@1b53f46e931b\\Runtime\\VisualScripting.Core\\Listeners\\UIInterfaces\\UnityOnPointerEnterMessageListener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.visualscripting@1b53f46e931b\\Runtime\\VisualScripting.Core\\Listeners\\UIInterfaces\\UnityOnPointerEnterMessageListener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@7e188ec401ea\\Runtime\\UI\\XRUIInputModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.interaction.toolkit@7e188ec401ea\\Runtime\\UI\\XRUIInputModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Terrain\\TerrainDetailLitPasses.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Terrain\\TerrainDetailLitPasses.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Plugins\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Plugins\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+>>>>>>> Stashed changes
+=======
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\assets\\minijuegos\\mago\\scripts\\activarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\minijuegos\\mago\\scripts\\activarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\administrator\\onedrive\\escritorio\\virtualliance\\assets\\minijuegos\\mago\\scripts\\canvasiteractivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\minijuegos\\mago\\scripts\\canvasiteractivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 >>>>>>> Stashed changes
     }
   ],
@@ -54,8 +123,26 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 2,
+=======
+          "SelectedChildIndex": 0,
+>>>>>>> Stashed changes
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TiempoManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\TiempoManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Mago\\Scripts\\TiempoManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\TiempoManager.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Mago\\Scripts\\TiempoManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:36:18.582Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -63,6 +150,7 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+<<<<<<< Updated upstream
             },
             {
               "$type": "Document",
@@ -80,6 +168,8 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+=======
+>>>>>>> Stashed changes
             },
             {
 <<<<<<< Updated upstream
@@ -87,6 +177,7 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+<<<<<<< Updated upstream
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MovimientoMazon.cs",
@@ -110,10 +201,15 @@
               "WhenOpened": "2025-05-14T11:42:38.907Z",
 >>>>>>> Stashed changes
               "EditorCaption": ""
+=======
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
               "Title": "PuntuacionTotal.cs",
               "DocumentMoniker": "E:\\UOC\\3r Semestre\\Dise\u00F1o y programaci\u00F3n de un videojuego en VR i AR\\AA1\\VirtuAlliance\\VirtuAlliance\\Assets\\Common\\Scripts\\PuntuacionTotal.cs",
@@ -158,10 +254,34 @@
               "ViewState": "AgIAABsAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T14:50:34.271Z"
+=======
+              "Title": "TutorialManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\TutorialManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Mago\\Scripts\\TutorialManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\TutorialManager.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Mago\\Scripts\\TutorialManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:57:06.567Z",
+              "EditorCaption": ""
+>>>>>>> Stashed changes
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeguirMirada.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\SeguirMirada.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Mago\\Scripts\\SeguirMirada.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\SeguirMirada.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Mago\\Scripts\\SeguirMirada.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAEQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:31:16.214Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< Updated upstream
               "Title": "PuntajeManager.cs",
               "DocumentMoniker": "E:\\UOC\\3r Semestre\\Dise\u00F1o y programaci\u00F3n de un videojuego en VR i AR\\AA1\\VirtuAlliance\\VirtuAlliance\\Assets\\Minijuegos\\Catastrofe\\Scripts\\PuntajeManager.cs",
               "RelativeDocumentMoniker": "Assets\\Minijuegos\\Catastrofe\\Scripts\\PuntajeManager.cs",
@@ -170,10 +290,22 @@
               "ViewState": "AgIAAB4AAAAAAAAAAAAAADsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T13:42:20.486Z"
+=======
+              "Title": "PuntuacionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\PuntuacionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Mago\\Scripts\\PuntuacionManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\PuntuacionManager.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Mago\\Scripts\\PuntuacionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:35:00.248Z",
+              "EditorCaption": ""
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< Updated upstream
               "Title": "ObjetoQueCae.cs",
               "DocumentMoniker": "E:\\UOC\\3r Semestre\\Dise\u00F1o y programaci\u00F3n de un videojuego en VR i AR\\AA1\\VirtuAlliance\\VirtuAlliance\\Assets\\Minijuegos\\Catastrofe\\Scripts\\ObjetoQueCae.cs",
               "RelativeDocumentMoniker": "Assets\\Minijuegos\\Catastrofe\\Scripts\\ObjetoQueCae.cs",
@@ -191,6 +323,160 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-05-14T08:07:02.009Z"
+>>>>>>> Stashed changes
+=======
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\LibroController.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Mago\\Scripts\\LibroController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\LibroController.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Mago\\Scripts\\LibroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:33:55.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationSettingsProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Library\\PackageCache\\com.unity.mobile.notifications@439e41e635a0\\Editor\\NotificationSettingsProvider.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.mobile.notifications@439e41e635a0\\Editor\\NotificationSettingsProvider.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Library\\PackageCache\\com.unity.mobile.notifications@439e41e635a0\\Editor\\NotificationSettingsProvider.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.mobile.notifications@439e41e635a0\\Editor\\NotificationSettingsProvider.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAnwE4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:32:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CanvasInteractivo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\CanvasInteractivo.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Mago\\Scripts\\CanvasInteractivo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\CanvasInteractivo.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Mago\\Scripts\\CanvasInteractivo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:48:22.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CanvasFijo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\CanvasFijo.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Mago\\Scripts\\CanvasFijo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\CanvasFijo.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Mago\\Scripts\\CanvasFijo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:45:46.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CanvasIteractivo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\CanvasIteractivo.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Mago\\Scripts\\CanvasIteractivo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\CanvasIteractivo.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Mago\\Scripts\\CanvasIteractivo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:08:00.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Funcionamiento.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\2ndo2D\\Scripts\\Funcionamiento.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\2ndo2D\\Scripts\\Funcionamiento.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\2ndo2D\\Scripts\\Funcionamiento.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\2ndo2D\\Scripts\\Funcionamiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:14:07.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transiciones.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Common\\Scripts\\Transiciones.cs",
+              "RelativeDocumentMoniker": "Assets\\Common\\Scripts\\Transiciones.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Common\\Scripts\\Transiciones.cs",
+              "RelativeToolTip": "Assets\\Common\\Scripts\\Transiciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:17:25.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GeneradorObjetos.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Catastrofe\\Scripts\\GeneradorObjetos.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Catastrofe\\Scripts\\GeneradorObjetos.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Catastrofe\\Scripts\\GeneradorObjetos.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Catastrofe\\Scripts\\GeneradorObjetos.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:18:31.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PuntajeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Catastrofe\\Scripts\\PuntajeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Catastrofe\\Scripts\\PuntajeManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Catastrofe\\Scripts\\PuntajeManager.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Catastrofe\\Scripts\\PuntajeManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:18:47.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnityOnPointerEnterMessageListener.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Library\\PackageCache\\com.unity.visualscripting@1b53f46e931b\\Runtime\\VisualScripting.Core\\Listeners\\UIInterfaces\\UnityOnPointerEnterMessageListener.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.visualscripting@1b53f46e931b\\Runtime\\VisualScripting.Core\\Listeners\\UIInterfaces\\UnityOnPointerEnterMessageListener.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Library\\PackageCache\\com.unity.visualscripting@1b53f46e931b\\Runtime\\VisualScripting.Core\\Listeners\\UIInterfaces\\UnityOnPointerEnterMessageListener.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.visualscripting@1b53f46e931b\\Runtime\\VisualScripting.Core\\Listeners\\UIInterfaces\\UnityOnPointerEnterMessageListener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:02:38.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ActivarLibro.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\ActivarLibro.cs",
+              "RelativeDocumentMoniker": "Assets\\Minijuegos\\Mago\\Scripts\\ActivarLibro.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Assets\\Minijuegos\\Mago\\Scripts\\ActivarLibro.cs",
+              "RelativeToolTip": "Assets\\Minijuegos\\Mago\\Scripts\\ActivarLibro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:48:07.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XRUIInputModule.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@7e188ec401ea\\Runtime\\UI\\XRUIInputModule.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@7e188ec401ea\\Runtime\\UI\\XRUIInputModule.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Library\\PackageCache\\com.unity.xr.interaction.toolkit@7e188ec401ea\\Runtime\\UI\\XRUIInputModule.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.interaction.toolkit@7e188ec401ea\\Runtime\\UI\\XRUIInputModule.cs",
+              "ViewState": "AQIAADQDAAAAAAAAAAAAAD4DAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T18:23:20.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Escritorio\\VirtuAlliance\\Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@0b68ece7aa54\\Shaders\\Lit.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-16T11:22:47.17Z"
 >>>>>>> Stashed changes
             }
           ]
